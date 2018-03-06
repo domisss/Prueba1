@@ -1,0 +1,30 @@
+Cifras de población resultantes de la Revisión del Padrón municipal a 1 de enero de 2013						
+CPRO	PROVINCIA	CMUN	NOMBRE	POB13	HOMBRES	MUJERES
+02	Albacete	001	Abengibre	819	409	410
+02	Albacete	002	Alatoz	572	318	254
+02	Albacete	003	Albacete	172.693	84.702	87.991
+02	Albacete	004	Albatana	774	394	380
+02	Albacete	005	Alborea	825	426	399
+02	Albacete	006	Alcadozo	708	375	333
+02	Albacete	007	Alcalá del Júcar	1.314	698	616
+02	Albacete	008	Alcaraz	1.551	786	765
+02	Albacete	009	Almansa	25.279	12.560	12.719
+02	Albacete	010	Alpera	2.406	1.232	1.174
+02	Albacete	011	Ayna	751	407	344
+02	Albacete	012	Balazote	2.401	1.249	1.152
+02	Albacete	014	Ballestero, El	462	239	223
+02	Albacete	013	Balsa de Ves	179	99	80
+02	Albacete	015	Barrax	1.934	1.002	932
+02	Albacete	016	Bienservida	696	360	336
+23	Jaén	029	Chiclana de Segura	1.084	549	535
+23	Jaén	030	Chilluévar	1.578	785	793
+23	Jaén	031	Escañuela	960	486	474
+34	Palencia	163	San Mamés de Campos	60	29	31
+34	Palencia	165	San Román de la Cuba	79	42	37
+34	Palencia	167	Santa Cecilia del Alcor	127	78	49
+50	Zaragoza	209	Pinseque	3.687	1.919	1.768
+50	Zaragoza	210	Pintanos, Los	48	29	19
+50	Zaragoza	211	Plasencia de Jalón	374	205	169
+08	Barcelona	261	Santa Susanna	3.325	1.700	1.625
+08	Barcelona	192	Santpedor	7.346	3.656	3.690
+08	Barcelona	267	Sentmenat	8.655	4.384	4.271
